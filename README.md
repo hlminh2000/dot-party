@@ -4,4 +4,6 @@ This an experimental demo app with React, Redux and Pixi.js. The app simply draw
 
 This acts as a proof of concept of an animation builder.
 
+This project is currently deployed at: http://www.minhified.io/dot_party/
+
 <img src="https://d26dzxoao6i3hh.cloudfront.net/items/2C0d3j1q1k3A1G1y472c/Screen%20Recording%202017-12-11%20at%2009.52%20PM.gif?v=70df610d"></img>
